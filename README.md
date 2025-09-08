@@ -26,7 +26,7 @@ Passionate about solving problems at the intersection of technology, math, and f
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/rowan-hayenga-59b140369)  
-- [Email](rhayenga@umich.edu)  
+- [Email](mailto:rhayenga@umich.edu)  
 
 ---
 Feel free to check out my repositories and projects!
